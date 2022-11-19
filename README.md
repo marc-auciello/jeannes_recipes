@@ -1,1 +1,1 @@
-# jeannes_recipes
+# Jeanne's Recipes

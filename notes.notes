@@ -1,0 +1,63 @@
+Todo:
+[√] Make an outline
+
+
+
+// 
+// Functionality
+// 
+-- UX --
+User is able to:
+-- profile --
+[ ] create profile w/ 
+   [ ] name
+   [ ] avatar
+   [ ] about
+[ ] edit profile
+[ ] destroy profile
+-- recipe --
+[ ] create recipe w/
+   [ ] name
+   [ ] picture
+   [ ] ingredients
+   [ ] steps
+[ ] edit their recipe
+[ ] destroy their recipe
+Visitor && User is able to:
+-- profile --
+[ ] view profile
+-- recipe --
+[ ] search for a recipe
+[ ] view recipe
+[ ] print recipe
+[ ] check off steps in recipe (local storage?)
+-- UI --
+[ ] nav
+   [ ] navigation
+   [ ] search
+[ ] landing page
+   [ ] nav 
+   [ ] recipe of the day
+[ ] login page 
+   [ ] email input
+   [ ] password input
+   // google login?
+   // oAuth?
+[ ] recipe page
+   [ ] nav
+   [ ] name
+   [ ] picture
+   [ ] ingredients
+   [ ] steps
+[ ] profile view page
+   [ ] nav
+   [ ] name
+   [ ] avatar
+   [ ] about
+[ ] profile create page
+   [ ] nav
+   [ ] name input
+   [ ] avatar input
+   [ ] about input
+   [ ] email input
+   [ ] password input
